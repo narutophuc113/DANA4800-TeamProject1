@@ -1,4 +1,5 @@
 Variable,Description
+Hospital Mortality,"Data type: Numerical - continous, Mode: 0, Frequency of Mode: 15866 (84.02%), Missing Values: 0 (0.00%)"
 Max Lactate,"Data type: Numerical - continous, Mode: 1.8, Frequency of Mode: 461 (3.34%), Missing Values: 5101 (37.01%)"
 Min Lactate,"Data type: Numerical - continous, Mode: 1.0, Frequency of Mode: 976 (7.08%), Missing Values: 5101 (37.01%)"
 Mean Lactate,"Data type: Numerical - continous, Mode: 1.4, Frequency of Mode: 366 (2.66%), Missing Values: 5101 (37.01%)"
