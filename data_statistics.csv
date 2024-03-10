@@ -1,4 +1,5 @@
 Variable,Description
+Hospital Mortality,"Mean: 0.16, Std: 0.37, Min: 0.00, Median: 0.00, Max: 1.00, Shape: "
 Max Lactate,"Mean: 3.41, Std: 2.87, Min: 0.40, Median: 2.50, Max: 32.00, Shape: "
 Min Lactate,"Mean: 1.83, Std: 1.46, Min: 0.20, Median: 1.40, Max: 24.20, Shape: "
 Mean Lactate,"Mean: 2.57, Std: 1.95, Min: 0.38, Median: 2.00, Max: 25.54, Shape: "
@@ -21,4 +22,3 @@ Max Hemoglobin,"Mean: 12.40, Std: 1.93, Min: 4.60, Median: 12.30, Max: 21.00, Sh
 Min Hemoglobin,"Mean: 9.76, Std: 2.22, Min: 1.20, Median: 9.60, Max: 19.40, Shape: "
 Mean Hemoglobin,"Mean: 10.95, Std: 1.85, Min: 4.00, Median: 10.70, Max: 19.60, Shape: "
 Ventilation Duration (h),"Mean: 81.16, Std: 154.86, Min: 0.02, Median: 19.00, Max: 3115.65, Shape: "
-RRT,"Mean: 0.03, Std: 0.17, Min: 0.00, Median: 0.00, Max: 1.00, Shape: "
